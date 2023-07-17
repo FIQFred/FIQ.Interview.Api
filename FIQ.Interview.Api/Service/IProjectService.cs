@@ -4,5 +4,5 @@ namespace FIQ.Interview.Api.Service;
 
 public interface IProjectService
 {
-    Project GetProjectWithTasks(int projectId);
+    Project GetProjectWithWorkItems(int projectId);
 }

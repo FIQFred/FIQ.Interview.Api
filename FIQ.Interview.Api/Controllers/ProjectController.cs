@@ -7,10 +7,7 @@ namespace FIQ.Interview.Api.Controllers
     [Route("[controller]")]
     public class ProjectController
     {
-        [HttpGet(Name = "GetProjects")]
-        public IEnumerable<Project> Get()
-        {
-            return new List<Project>();
-        }
+        //[HttpGet(Name = "GetProjects")]
+
     }
 }

@@ -5,7 +5,7 @@ namespace FIQ.Interview.Api
 {
     public class ProjectDbContext : DbContext
     {
-        public DbSet<Project> Projects { get; set; }
+        public DbSet<Project> Projects { get; set; } 
         public DbSet<WorkItem> WorkItems { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
