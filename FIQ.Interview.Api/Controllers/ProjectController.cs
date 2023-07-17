@@ -7,7 +7,7 @@ namespace FIQ.Interview.Api.Controllers
     [Route("[controller]")]
     public class ProjectController
     {
-        //[HttpGet(Name = "GetProjects")]
+        //[HttpGet(Name = "GetProjectById")]
 
     }
 }
