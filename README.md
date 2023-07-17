@@ -4,9 +4,9 @@ In today's session, you will be asked to complete basic tasks on a .NET Core API
 
 * Clone this project to your local environment.
 * Establish a one-to-many relationship between the Project and WorkItem entities.
-* Complete the GetProjects endpoint by implementing the ProjectService.
+* Complete the GetProjectById endpoint by implementing the ProjectService.
 * Seed some sample Project and WorkItem data and deploy it to a database.
-* Call the GetProjects endpoint.
+* Call the GetProjectById endpoint.
 
 For this exercise, you are free to use any resources, including the internet.
 
